@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">A passionate CS undergrad from India</h3>
-<img align="center" alt="Coding" width="400" src=https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif>
+<img align="justify" alt="Coding" width="400" src=https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vdhawan13&label=Profile%20views&color=0e75b6&style=flat" alt="vdhawan13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vdhawan13" alt="vdhawan13" /></a> </p>
