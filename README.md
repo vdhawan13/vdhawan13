@@ -2,7 +2,8 @@
 <h3 align="center">A passionate CS undergrad from India</h3>
 <img align="justify" alt="Coding" width="2000" src=https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif>
 # 💫 About Me:
-🔭 I’m currently working on Python and Machine Learning<br>🤝 I’m looking for help with Python & ML<br>🌱 I’m currently learning Data Science<br>💬 Ask me about C++, DSA<br>⚡ Fun fact: C++>>>>>Java
+
+🔭 I’m currently working on Python and Machine Learning<br>🤝 I’m looking for help with Python & ML<br>🌱 I’m currently learning Data Science<br>💬 Ask me about C++, DSA<br>⚡ Fun fact: C++ is better than Java lol.
 
 
 ## 🌐 Socials:
