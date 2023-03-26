@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vaibhavdhawan181@gmail.com**
 
-- ⚡ Fun fact **C++ is the best..**
+- ⚡ Fun fact **C++ is better than Java lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
